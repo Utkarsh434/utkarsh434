@@ -3,11 +3,11 @@
 <img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
 ![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
 -->
-![](https://komarev.com/ghpvc/?username=utkarshpra78&label=PROFILE+VIEWS&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=utkarsh434&label=PROFILE+VIEWS&color=blue&style=plastic)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshpra78&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh434&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpra78&layout=compact&show_icons=true)
+![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh434&layout=compact&show_icons=true)
 
 
 - 💬 Ask me about Algorithms, Data Structures, and Competitive Programming
@@ -16,10 +16,10 @@
 
 <span>
 <a href="https://codeforces.com/profile/utkarsh_108">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=utkarsh_108&theme=github_dark&force_username=true&border_color=404040" alt="utkarsh_108 Codeforces stats"/>
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=deadline434&theme=github_dark&force_username=true&border_color=404040" alt="utkarsh_108 Codeforces stats"/>
 </a>
 <a href="https://leetcode.com/next_utkarsh_108">
-<img height="316" src="https://leetcard.jacoblin.cool/next_utkarsh_108?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/next_utkarsh_108/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="next_utkarsh_108 Leetcode Stats"/>
+<img height="316" src="https://leetcard.jacoblin.cool/utkarsh_vishwakarma004?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/next_utkarsh_108/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="utkarsh_vishwakarma004 Leetcode Stats"/>
 </a>
 </span>
 
