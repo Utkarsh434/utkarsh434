@@ -1,7 +1,7 @@
 ### Hi there, I'm utkarsh 👋
 
 <img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
-![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
+
 
 ![](https://komarev.com/ghpvc/?username=utkarsh434&label=PROFILE+VIEWS&color=blue&style=plastic)
 
