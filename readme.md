@@ -1,6 +1,6 @@
-### Hi there, I'm utkarsh 👋
+### Hey there , i'm Utkarsh 👋
 
-<img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
+<!--<img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>-->
 
 
 ![](https://komarev.com/ghpvc/?username=utkarsh434&label=PROFILE+VIEWS&color=blue&style=plastic)
